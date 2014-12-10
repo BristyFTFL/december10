@@ -1,0 +1,6 @@
+F:\Bristy_Project\SquareConsoleApp\SquareConsoleApp\bin\Debug\SquareConsoleApp.exe.config
+F:\Bristy_Project\SquareConsoleApp\SquareConsoleApp\bin\Debug\SquareConsoleApp.exe
+F:\Bristy_Project\SquareConsoleApp\SquareConsoleApp\bin\Debug\SquareConsoleApp.pdb
+F:\Bristy_Project\SquareConsoleApp\SquareConsoleApp\obj\Debug\SquareConsoleApp.csprojResolveAssemblyReference.cache
+F:\Bristy_Project\SquareConsoleApp\SquareConsoleApp\obj\Debug\SquareConsoleApp.exe
+F:\Bristy_Project\SquareConsoleApp\SquareConsoleApp\obj\Debug\SquareConsoleApp.pdb

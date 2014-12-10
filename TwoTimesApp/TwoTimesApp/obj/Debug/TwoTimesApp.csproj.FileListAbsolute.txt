@@ -1,0 +1,9 @@
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\bin\Debug\TwoTimesApp.exe.config
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\bin\Debug\TwoTimesApp.exe
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\bin\Debug\TwoTimesApp.pdb
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.csprojResolveAssemblyReference.cache
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.Form1.resources
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.Properties.Resources.resources
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.csproj.GenerateResource.Cache
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.exe
+F:\Bristy_Project\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.pdb
